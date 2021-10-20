@@ -9,3 +9,5 @@ https://github.com/Cleython-Enginner/conversor-moedas-kotlin-dio
 https://github.com/Cleython-Enginner/cartao-visita-kotilin-dio
 
 ## App de Lembretes e Tarefas com Kotlin  ⚪
+
+https://github.com/Cleython-Enginner/lembrete-tarefas-kotlin
